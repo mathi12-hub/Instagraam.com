@@ -7,7 +7,7 @@
         "username": "johndoe",
         "profile_pic": "/assets/OIP (3).jpeg"
       },
-      "image": "/assets/OIP (2).jpeg",
+      "image": "assets/OIP (2).jpeg",
       "caption": "Sunset vibes 🌇",
       "likes": 150,
       "comments": [
@@ -29,7 +29,7 @@
           "user": {
             "id": "user_003",
             "username": "michaelb",
-            "profile_pic": "/assets/OIP (4).jpeg"
+            "profile_pic": "assets/OIP (4).jpeg"
           },
           "text": "Where is this?",
           "timestamp": "2025-07-26T19:00:00Z"
