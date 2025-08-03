@@ -5,9 +5,9 @@
       "user": {
         "id": "user_001",
         "username": "johndoe",
-        "profile_pic": "/src/assets/OIP (3).jpeg"
+        "profile_pic": "/assets/OIP (3).jpeg"
       },
-      "image": "src/assets/OIP (2).jpeg",
+      "image": "/assets/OIP (2).jpeg",
       "caption": "Sunset vibes 🌇",
       "likes": 150,
       "comments": [
@@ -16,7 +16,7 @@
           "user": {
             "id": "user_002",
             "username": "janesmith",
-            "profile_pic": "/src/assets/OIP (4).jpeg"
+            "profile_pic": "/assets/OIP (4).jpeg"
           },
           "text": "Beautiful view!",
           "timestamp": "2025-07-26T18:30:00Z"
@@ -29,7 +29,7 @@
           "user": {
             "id": "user_003",
             "username": "michaelb",
-            "profile_pic": "/src/assets/OIP (4).jpeg"
+            "profile_pic": "/assets/OIP (4).jpeg"
           },
           "text": "Where is this?",
           "timestamp": "2025-07-26T19:00:00Z"
@@ -50,9 +50,9 @@
       "user": {
         "id": "user_004",
         "username": "emilyrose",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image": "/src/assets/th.jpeg",
+      "image": "/assets/th.jpeg",
       "caption": "Morning hike adventure ⛰️",
       "likes": 240,
       "comments": [
@@ -61,7 +61,7 @@
           "user": {
             "id": "user_001",
             "username": "johndoe",
-            "profile_pic": "/src/assets/OIP (5).jpeg"
+            "profile_pic": "/assets/OIP (5).jpeg"
           },
           "text": "Looks fun!",
           "timestamp": "2025-07-26T08:45:00Z"
@@ -71,7 +71,7 @@
           "user": {
             "id": "user_005",
             "username": "saraw",
-            "profile_pic": "/src/assets/OIP (6).jpeg"
+            "profile_pic": "/assets/OIP (6).jpeg"
           },
           "text": "Incredible photo!",
           "timestamp": "2025-07-26T09:10:00Z"
@@ -90,9 +90,9 @@
       "user": {
         "id": "user_006",
         "username": "davidl",
-        "profile_pic": "/src/assets/OIP (6).jpeg"
+        "profile_pic": "/assets/OIP (6).jpeg"
       },
-      "image": "/src/assets/OIF.jpeg",
+      "image": "/assets/OIF.jpeg",
       "caption": "City lights at night 🌃",
       "likes": 310,
       "comments": [
@@ -101,7 +101,7 @@
           "user": {
             "id": "user_004",
             "username": "emilyrose",
-            "profile_pic": "/src/assets/OIP (3).jpeg"
+            "profile_pic": "/assets/OIP (3).jpeg"
           },
           "text": "Epic shot!",
           "timestamp": "2025-07-25T22:00:00Z"
@@ -111,7 +111,7 @@
           "user": {
             "id": "user_007",
             "username": "karenlee",
-            "profile_pic": "/src/assets/OIP (3).jpeg"
+            "profile_pic": "/assets/OIP (3).jpeg"
           },
           "text": "Love the colors!",
           "timestamp": "2025-07-25T22:15:00Z"
@@ -130,9 +130,9 @@
       "user": {
         "id": "user_008",
         "username": "alexr",
-        "profile_pic": "/src/assets/OIP (4).jpeg"
+        "profile_pic": "/assets/OIP (4).jpeg"
       },
-      "image": "/src/assets/th.jpeg",
+      "image": "/assets/th.jpeg",
       "caption": "Delicious brunch 🍳",
       "likes": 180,
       "comments": [
@@ -141,7 +141,7 @@
           "user": {
             "id": "user_006",
             "username": "davidl",
-            "profile_pic": "/src/assets/OIP (4).jpeg"
+            "profile_pic": "/assets/OIP (4).jpeg"
           },
           "text": "That looks so good!",
           "timestamp": "2025-07-26T11:00:00Z"
@@ -151,7 +151,7 @@
           "user": {
             "id": "user_009",
             "username": "natalieb",
-            "profile_pic": "/src/assets/OIP (5).jpeg"
+            "profile_pic": "/assets/OIP (5).jpeg"
           },
           "text": "Where did you go?",
           "timestamp": "2025-07-26T11:20:00Z"
@@ -164,74 +164,74 @@
   "profile":{
             "id": "user_003",
             "username": "mich_aelb",
-            "profile_pic": "/src/assets/OIP (6).jpeg"
+            "profile_pic": "/assets/OIP (6).jpeg"
           },
   "suggestions":[
         {
             "id": "1",
             "username": "joh_ndoe",
-            "profile_pic": "/src/assets/OIP (3).jpeg",
+            "profile_pic": "/assets/OIP (3).jpeg",
            "username_1": "janesmith"},
             
         {
             "id": "2",
             "username": "jane_smith",
-            "profile_pic": "/src/assets/OIP (6).jpeg",
+            "profile_pic": "/assets/OIP (6).jpeg",
           "username_1": "janesmith"},
         {
             "id": "3",
             "username": "mich_aelb",
-            "profile_pic": "/src/assets/OIP (5).jpeg",
+            "profile_pic": "/assets/OIP (5).jpeg",
             "username_1": "janesmith"
           },
         {
         "id": "4",
         "username": "joh_",
-        "profile_pic": "/src/assets/OIP (3).jpeg",
+        "profile_pic": "/assets/OIP (3).jpeg",
         "username_1": "janesmith"
       },
        {
         "id": "5",
         "username": "joh_",
-        "profile_pic": "/src/assets/OIP (6).jpeg","username_1": "janesmith"
+        "profile_pic": "/assets/OIP (6).jpeg","username_1": "janesmith"
       },
        {
         "id": "6",
         "username": "joh_",
-        "profile_pic": "/src/assets/OIP (5).jpeg",
+        "profile_pic": "/assets/OIP (5).jpeg",
         "username_1": "janesmith"
       },
        {
         "id": "7",
         "username": "joh_",
-        "profile_pic": "/src/assets/OIP (3).jpeg","username_1": "janesmith"
+        "profile_pic": "/assets/OIP (3).jpeg","username_1": "janesmith"
       },
        {
             "id": "8",
             "username": "joh_ndoe",
-            "profile_pic": "/src/assets/OIP (3).jpeg",
+            "profile_pic": "/assets/OIP (3).jpeg",
           "username_1": "janesmith"},
         {
             "id": "9",
             "username": "jane_smith",
-            "profile_pic": "/src/assets/OIP (6).jpeg",
+            "profile_pic": "/assets/OIP (6).jpeg",
           "username_1": "janesmith"},
         {
             "id": "10",
             "username": "mich_aelb",
-            "profile_pic": "/src/assets/OIP (5).jpeg",
+            "profile_pic": "/assets/OIP (5).jpeg",
             "username_1": "janesmith"
           },
         {
         "id": "11",
         "username": "joh_",
-        "profile_pic": "/src/assets/OIP (3).jpeg",
+        "profile_pic": "/assets/OIP (3).jpeg",
         "username_1": "janesmith"
       },
        {
         "id": "12",
         "username": "joh_",
-        "profile_pic": "/src/assets/OIP (6).jpeg",
+        "profile_pic": "/assets/OIP (6).jpeg",
         "username_1": "janesmith"
       }
 ], 
@@ -243,9 +243,9 @@
       "user": {
         "id": "user_004",
         "username": "emilyrose",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image": "/src/assets/OIP (8).jpeg"
+      "image": "/assets/OIP (8).jpeg"
       
     },
 
@@ -254,9 +254,9 @@
       "user": {
         "id": "user_006",
         "username": "davidl",
-        "profile_pic": "/src/assets/OIP (6).jpeg"
+        "profile_pic": "/assets/OIP (6).jpeg"
       },
-      "image": "/src/assets/OIP (9).jpeg"
+      "image": "/assets/OIP (9).jpeg"
       
 
     },
@@ -266,9 +266,9 @@
       "user": {
         "id": "user_008",
         "username": "ale_xr",
-        "profile_pic": "/src/assets/OIP (3).jpeg"
+        "profile_pic": "/assets/OIP (3).jpeg"
       },
-      "image": "/src/assets/OIP (10).jpeg"
+      "image": "/assets/OIP (10).jpeg"
       
     },
     
@@ -277,9 +277,9 @@
       "user": {
         "id": "user_001",
         "username": "joh_ndoe",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image":  "/src/assets/OIP (9).jpeg"
+      "image":  "/assets/OIP (9).jpeg"
      
     },
   
@@ -289,18 +289,18 @@
       "user": {
         "id": "user_001",
         "username": "jo_ndoe",
-        "profile_pic": "/src/assets/OIP (6).jpeg"
+        "profile_pic": "/assets/OIP (6).jpeg"
       },
-      "image":  "/src/assets/OIP (10).jpeg"
+      "image":  "/assets/OIP (10).jpeg"
     },
         {
       "id": "6",
       "user": {
         "id": "user_004",
         "username": "emily_rose",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image": "/src/assets/OIP (8).jpeg"
+      "image": "/assets/OIP (8).jpeg"
       
     },
 
@@ -309,9 +309,9 @@
       "user": {
         "id": "user_006",
         "username": "dav_idl",
-        "profile_pic": "/src/assets/OIP (6).jpeg"
+        "profile_pic": "/assets/OIP (6).jpeg"
       },
-      "image": "/src/assets/OIP (9).jpeg"
+      "image": "/assets/OIP (9).jpeg"
       
 
     },
@@ -321,9 +321,9 @@
       "user": {
         "id": "user_008",
         "username": "ale_xr",
-        "profile_pic": "/src/assets/OIP (3).jpeg"
+        "profile_pic": "/assets/OIP (3).jpeg"
       },
-      "image": "/src/assets/OIP (10).jpeg"
+      "image": "/assets/OIP (10).jpeg"
       
     },
     
@@ -332,9 +332,9 @@
       "user": {
         "id": "user_001",
         "username": "joh_ndoe",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image":  "/src/assets/OIP (9).jpeg"
+      "image":  "/assets/OIP (9).jpeg"
      
     }
   
@@ -348,9 +348,9 @@
       "user": {
         "id": "user_004",
         "username": "emilyrose",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image": "/src/assets/OIP (8).jpeg",
+      "image": "/assets/OIP (8).jpeg",
       "caption": "#Sunset vibes 🌇"
       
     },
@@ -360,9 +360,9 @@
       "user": {
         "id": "user_006",
         "username": "davidl",
-        "profile_pic": "/src/assets/OIP (6).jpeg"
+        "profile_pic": "/assets/OIP (6).jpeg"
       },
-      "image": "/src/assets/OIP (9).jpeg",
+      "image": "/assets/OIP (9).jpeg",
       "caption": "Morning hike adventure ⛰️"
       
 
@@ -373,9 +373,9 @@
       "user": {
         "id": "user_008",
         "username": "alexr",
-        "profile_pic": "/src/assets/OIP (3).jpeg"
+        "profile_pic": "/assets/OIP (3).jpeg"
       },
-      "image": "/src/assets/OIP (10).jpeg",
+      "image": "/assets/OIP (10).jpeg",
       "caption": "Morning hike adventure ⛰️"
       
     },
@@ -385,9 +385,9 @@
       "user": {
         "id": "user_001",
         "username": "joh_ndoe",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image":  "/src/assets/OIP (9).jpeg",
+      "image":  "/assets/OIP (9).jpeg",
        "caption": "City lights at night 🌃"
      
     },
@@ -398,9 +398,9 @@
       "user": {
         "id": "user_001",
         "username": "johndoe",
-        "profile_pic": "/src/assets/OIP (6).jpeg"
+        "profile_pic": "/assets/OIP (6).jpeg"
       },
-      "image":  "/src/assets/OIP (10).jpeg",
+      "image":  "/assets/OIP (10).jpeg",
       "caption": "Delicious brunch 🍳"
     },
 
@@ -409,9 +409,9 @@
       "user": {
         "id": "user_004",
         "username": "emilyrose",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image": "/src/assets/OIP (8).jpeg",
+      "image": "/assets/OIP (8).jpeg",
        "caption": "City lights at night 🌃"
       
     },
@@ -421,9 +421,9 @@
       "user": {
         "id": "user_006",
         "username": "davidl",
-        "profile_pic": "/src/assets/OIP (6).jpeg"
+        "profile_pic": "/assets/OIP (6).jpeg"
       },
-      "image": "/src/assets/OIP (9).jpeg",
+      "image": "/assets/OIP (9).jpeg",
       "caption": "Sunset vibes 🌇"
       
 
@@ -434,9 +434,9 @@
       "user": {
         "id": "user_008",
         "username": "alexr",
-        "profile_pic": "/src/assets/OIP (3).jpeg"
+        "profile_pic": "/assets/OIP (3).jpeg"
       },
-      "image": "/src/assets/OIP (10).jpeg",
+      "image": "/assets/OIP (10).jpeg",
        "caption": "City lights at night 🌃"
       
     },
@@ -446,9 +446,9 @@
       "user": {
         "id": "user_001",
         "username": "joh_ndoe",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image":  "/src/assets/OIP (9).jpeg",
+      "image":  "/assets/OIP (9).jpeg",
       "caption": "Delicious brunch 🍳"
      
     }
@@ -464,9 +464,9 @@
       "user": {
         "id": "user_004",
         "username": "emilyrose",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image": "/src/assets/OIP (8).jpeg",
+      "image": "/assets/OIP (8).jpeg",
       "caption": "#Sunset vibes 🌇"
       
     },
@@ -476,9 +476,9 @@
       "user": {
         "id": "user_006",
         "username": "davidl",
-        "profile_pic": "/src/assets/OIP (6).jpeg"
+        "profile_pic": "/assets/OIP (6).jpeg"
       },
-      "image": "/src/assets/OIP (9).jpeg",
+      "image": "/assets/OIP (9).jpeg",
       "caption": "Morning hike adventure ⛰️"
       
 
@@ -489,9 +489,9 @@
       "user": {
         "id": "user_008",
         "username": "alexr",
-        "profile_pic": "/src/assets/OIP (3).jpeg"
+        "profile_pic": "/assets/OIP (3).jpeg"
       },
-      "image": "/src/assets/OIP (10).jpeg",
+      "image": "/assets/OIP (10).jpeg",
       "caption": "Morning hike adventure ⛰️"
       
     },
@@ -501,9 +501,9 @@
       "user": {
         "id": "user_001",
         "username": "joh_ndoe",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image":  "/src/assets/OIP (9).jpeg",
+      "image":  "/assets/OIP (9).jpeg",
        "caption": "City lights at night 🌃"
      
     },
@@ -514,9 +514,9 @@
       "user": {
         "id": "user_001",
         "username": "johndoe",
-        "profile_pic": "/src/assets/OIP (6).jpeg"
+        "profile_pic": "/assets/OIP (6).jpeg"
       },
-      "image":  "/src/assets/OIP (10).jpeg",
+      "image":  "/assets/OIP (10).jpeg",
       "caption": "Delicious brunch 🍳"
     },
 
@@ -525,9 +525,9 @@
       "user": {
         "id": "user_004",
         "username": "emilyrose",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image": "/src/assets/OIP (8).jpeg",
+      "image": "/assets/OIP (8).jpeg",
        "caption": "City lights at night 🌃"
       
     },
@@ -537,9 +537,9 @@
       "user": {
         "id": "user_006",
         "username": "davidl",
-        "profile_pic": "/src/assets/OIP (6).jpeg"
+        "profile_pic": "/assets/OIP (6).jpeg"
       },
-      "image": "/src/assets/OIP (9).jpeg",
+      "image": "/assets/OIP (9).jpeg",
       "caption": "Sunset vibes 🌇"
       
 
@@ -550,9 +550,9 @@
       "user": {
         "id": "user_008",
         "username": "alexr",
-        "profile_pic": "/src/assets/OIP (3).jpeg"
+        "profile_pic": "/assets/OIP (3).jpeg"
       },
-      "image": "/src/assets/OIP (10).jpeg",
+      "image": "/assets/OIP (10).jpeg",
        "caption": "City lights at night 🌃"
       
     },
@@ -562,9 +562,9 @@
       "user": {
         "id": "user_001",
         "username": "joh_ndoe",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image":  "/src/assets/OIP (9).jpeg",
+      "image":  "/assets/OIP (9).jpeg",
       "caption": "Delicious brunch 🍳"
      
     },
@@ -573,9 +573,9 @@
       "user": {
         "id": "user_004",
         "username": "emilyrose",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image": "/src/assets/OIP (8).jpeg",
+      "image": "/assets/OIP (8).jpeg",
       "caption": "#Sunset vibes 🌇"
       
     },
@@ -585,9 +585,9 @@
       "user": {
         "id": "user_006",
         "username": "davidl",
-        "profile_pic": "/src/assets/OIP (6).jpeg"
+        "profile_pic": "/assets/OIP (6).jpeg"
       },
-      "image": "/src/assets/OIP (9).jpeg",
+      "image": "/assets/OIP (9).jpeg",
       "caption": "Morning hike adventure ⛰️"
       
 
@@ -598,9 +598,9 @@
       "user": {
         "id": "user_008",
         "username": "alexr",
-        "profile_pic": "/src/assets/OIP (3).jpeg"
+        "profile_pic": "/assets/OIP (3).jpeg"
       },
-      "image": "/src/assets/OIP (10).jpeg",
+      "image": "/assets/OIP (10).jpeg",
       "caption": "Morning hike adventure ⛰️"
       
     },
@@ -610,9 +610,9 @@
       "user": {
         "id": "user_001",
         "username": "joh_ndoe",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image":  "/src/assets/OIP (9).jpeg",
+      "image":  "/assets/OIP (9).jpeg",
        "caption": "City lights at night 🌃"
      
     },
@@ -623,9 +623,9 @@
       "user": {
         "id": "user_001",
         "username": "johndoe",
-        "profile_pic": "/src/assets/OIP (6).jpeg"
+        "profile_pic": "/assets/OIP (6).jpeg"
       },
-      "image":  "/src/assets/OIP (10).jpeg",
+      "image":  "/assets/OIP (10).jpeg",
       "caption": "Delicious brunch 🍳"
     },
 
@@ -634,9 +634,9 @@
       "user": {
         "id": "user_004",
         "username": "emilyrose",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image": "/src/assets/OIP (8).jpeg",
+      "image": "/assets/OIP (8).jpeg",
        "caption": "City lights at night 🌃"
       
     },
@@ -646,9 +646,9 @@
       "user": {
         "id": "user_006",
         "username": "davidl",
-        "profile_pic": "/src/assets/OIP (6).jpeg"
+        "profile_pic": "/assets/OIP (6).jpeg"
       },
-      "image": "/src/assets/OIP (9).jpeg",
+      "image": "/assets/OIP (9).jpeg",
       "caption": "Sunset vibes 🌇"
       
 
@@ -659,9 +659,9 @@
       "user": {
         "id": "user_008",
         "username": "alexr",
-        "profile_pic": "/src/assets/OIP (3).jpeg"
+        "profile_pic": "/assets/OIP (3).jpeg"
       },
-      "image": "/src/assets/OIP (10).jpeg",
+      "image": "/assets/OIP (10).jpeg",
        "caption": "City lights at night 🌃"
       
     },
@@ -671,9 +671,9 @@
       "user": {
         "id": "user_001",
         "username": "joh_ndoe",
-        "profile_pic": "/src/assets/OIP (5).jpeg"
+        "profile_pic": "/assets/OIP (5).jpeg"
       },
-      "image":  "/src/assets/OIP (9).jpeg",
+      "image":  "/assets/OIP (9).jpeg",
       "caption": "Delicious brunch 🍳"
      
     }
